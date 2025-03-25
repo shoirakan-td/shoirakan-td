@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Shoïrakan**, a passionate developer and tech enthusiast. Here's a glimpse of my GitHub stats and activity:
+Hello, I'm **Shoïrakan**, a passionate and professional developer. Here's a glimpse of my GitHub stats and activity :
 
 ---
 
