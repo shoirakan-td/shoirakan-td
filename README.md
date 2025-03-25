@@ -19,7 +19,7 @@ Hi there! I'm **Shoïrakan**, a passionate developer and tech enthusiast. Here's
 
 ## ⚡ **Activity Graph**
 
-[![My Activity](https://activity-graph.herokuapp.com/graph?username=shoirakan-td&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shoirakan-td&theme=reacct)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
