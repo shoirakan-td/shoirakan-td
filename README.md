@@ -7,11 +7,6 @@ Hi there! I'm **Shoïrakan**, a passionate developer and tech enthusiast. Here's
 ## 📊 **GitHub Stats**
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoirakan-td)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🔍 **Top Languages**
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoirakan-td)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
