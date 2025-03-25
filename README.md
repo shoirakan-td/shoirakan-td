@@ -8,7 +8,7 @@ Hello, I'm **Shoïrakan**, a passionate and professional developer. Here's a gli
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoirakan-td)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoirakan-td)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=shoirakan-td)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoirakan-td&border_radius=4&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
